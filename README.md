@@ -23,6 +23,7 @@ This project forecasts temperatures using a **Linear Regression model** trained 
 ---
 
 ## Alerts:
+
 ✅ If temperature < 10°C: Too Cold warning
 ✅ If temperature > 35°C: Too Hot warning
 ✅ Otherwise: Normal forecast message
@@ -30,7 +31,8 @@ This project forecasts temperatures using a **Linear Regression model** trained 
 ---
 
 ## 📈 Future Improvements
-📊 Use time-series models (e.g., ARIMA, LSTM, Prophet) for better accuracy
-🌤️ Add other weather metrics (humidity, wind speed)
-🖥️ Develop a full web-based interface
+
+- 📊 Use time-series models (e.g., ARIMA, LSTM, Prophet) for better accuracy
+- 🌤️ Add other weather metrics (humidity, wind speed)
+- 🖥️ Develop a full web-based interface
 
