@@ -15,18 +15,18 @@ This project forecasts temperatures using a **Linear Regression model** trained 
 ---
 
 ## 🚀 Features  
-✅ Interactive GUI to enter forecast date  
-✅ Real-time temperature prediction using Linear Regression  
-✅ Graph visualization with predicted temperature marker  
-✅ Warning alerts for extreme temperatures (hot or cold)  
+- ✅ Interactive GUI to enter forecast date  
+- ✅ Real-time temperature prediction using Linear Regression  
+- ✅ Graph visualization with predicted temperature marker  
+- ✅ Warning alerts for extreme temperatures (hot or cold)  
 
 ---
 
 ## Alerts:
 
-✅ If temperature < 10°C: Too Cold warning
-✅ If temperature > 35°C: Too Hot warning
-✅ Otherwise: Normal forecast message
+- ✅ If temperature < 10°C: Too Cold warning
+- ✅ If temperature > 35°C: Too Hot warning
+- ✅ Otherwise: Normal forecast message
 
 ---
 
